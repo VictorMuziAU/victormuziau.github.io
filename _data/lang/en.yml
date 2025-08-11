@@ -113,7 +113,7 @@ post:
 # for post-list layout
 post-list:
   title: Projects
-  button_name: Blog
+  button_name: Projects #was blog
   upside_down_tabs:
     tab:
       all: All
