@@ -37,8 +37,12 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-<div class="mb-4">
-  
+<style>
+.home-intro-text {
+  text-align: left !important;
+}
+</style>
+
 ## About Me
 
 I'm a First Class Honours graduate in Psychological Science specializing in complex data analysis and cognitive research. Currently preparing my first-author publication on how executive function components interact with environmental complexity to influence children's safety decisions.
@@ -61,5 +65,3 @@ Novel eye-tracking research revealing how cognitive flexibility and inhibition i
 Translating evidence-based therapeutic frameworks into adaptive AI interactions with real-time progress tracking.
 
 Currently seeking research positions where I can apply my quantitative skills and passion for understanding human cognition to meaningful research questions. Particularly interested in cognitive assessment, developmental psychology, and applied psychological research.
-
-</div>
