@@ -44,25 +44,19 @@ img: ":home-heading.jpg"
 }
 </style>
 
-## About Me
+# Hi! I'm Victor Muzi
 
-I'm a First Class Honours graduate in Psychological Science specializing in complex data analysis and cognitive research. Currently preparing my first-author publication on how executive function components interact with environmental complexity to influence children's safety decisions.
+I'm a psychological researcher who combines advanced statistical expertise with a genuine fascination for understanding how minds work. My First Class Honours research used eye-tracking and mixed-effects modelling to understand how children make split-second safety decisions - work I'm now preparing for publication with international collaborators Dr. Sebastien Miellet (University of Wollongong) and Dr. Victoria Nicholls (Goethe University Frankfurt).
 
-**Current Role:** Research & Product Development Lead at Sophia Cortex, developing AI-assisted mental health support tools that integrate evidence-based psychological interventions with adaptive technology.
+This project exemplifies my approach: taking messy, real-world data, including archival datasets with inconsistent formatting, and uncovering meaningful insights about how executive function and environmental complexity shape behaviour. Currently at Sophia Cortex, I'm applying these same skills to develop AI-assisted therapeutic tools that make evidence-based interventions more accessible. Even my personal projects reflect this curiosity, from investigating personality estimation biases to exploring personality assessment reliability.
 
-## Core Expertise
-
-- **Statistical Analysis:** Mixed-effects models, SEM, factor analysis, bootstrapping
-- **Research Methods:** Eye-tracking, experimental design, psychometric assessment  
-- **Data Science:** Complex data integration, multi-source dataset management
-- **Software:** R, Python, MATLAB, SPSS, jamovi, Git
+## Get In Touch
+I'm currently seeking research positions that apply statistical methods and experimental design to questions in human behaviour and cognition.
+📧 victorhugomuzi@gmail.com | 💼 [LinkedIn] | 📄 [Download CV] | 🔬 [ORCID]
 
 ## Featured Work
+🔬 [Research Projects] - Eye-tracking studies and statistical analyses  
+📊 [Data Visualizations] - Examples of complex dataset insights  
+📝 [Publications & Presentations] - Academic contributions
 
-**Executive Function & Road-Crossing Safety** - *First author publication in preparation*  
-Novel eye-tracking research revealing how cognitive flexibility and inhibition interact with environmental complexity to predict children's safety decisions.
 
-**AI Mental Health Support Development** - *Current project at Sophia Cortex*  
-Translating evidence-based therapeutic frameworks into adaptive AI interactions with real-time progress tracking.
-
-Currently seeking research positions where I can apply my quantitative skills and passion for understanding human cognition to meaningful research questions. Particularly interested in cognitive assessment, developmental psychology, and applied psychological research.
