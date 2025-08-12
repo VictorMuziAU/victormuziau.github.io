@@ -18,6 +18,8 @@ layout: default
 {%- endif -%}
 
 <div class="multipurpose-container home-heading-container">
+  {%- unless page.show_hero == false -%} 
+  # edit here!
   <div class="home-heading" {{ home_img_background_style }}>
     {{ home_img_tag }}
     <div class="home-heading-message">
@@ -34,6 +36,8 @@ layout: default
       {% endif -%}
     </div>
   </div>
+  {%- endunless -%}
+  # second edit here
   <div class="home-intro-text markdown-style">
     {{ content }}
   </div>
