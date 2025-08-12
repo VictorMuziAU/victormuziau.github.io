@@ -9,9 +9,9 @@
 // dark color scheme definitions
 $brand-color-dark: #71b2ff;
 $main-background-dark: #191919;
-$button-color-dark: #666;
+$button-color-dark: #808080;
 $menu-background-dark: #252525;
-$header-color-dark: #c0c0c0;
+$header-color-dark: #d5d5d5;
 $container-background-dark: #2a2a2a;
 $hr-color-dark: #333;
 $anchor-text-color-dark: #3389de;
@@ -21,7 +21,7 @@ $anchor-text-color-dark: #3389de;
 %body-main-styles-colors-dark {
   --body-anchor-text-color: #{$anchor-text-color-dark};
   --body-anchor-hover-text-color: #2f6597;
-  --body-text-color: #b0b0b0;
+  --body-text-color: #d0d0d0;
   --body-header-text-color: #{$header-color-dark};
   --body-background-color: #{$main-background-dark};
   --body-hr-color: #{$hr-color-dark};
