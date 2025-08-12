@@ -268,3 +268,22 @@
 {% if projects_page_exist %}
   @import "projects/project-container";
 {% endif %}
+
+
+/* EDITS START HERE. Make Contact heading more visible in sidebar */
+.contact-container > h3 {
+  font-size: 0.95rem !important;   /* Increase size (adjust as needed) */
+  opacity: 0.85 !important;         /* Make more visible */
+  font-weight: 500 !important;      /* Medium weight */
+  letter-spacing: 0.5px;            /* Slight spacing for readability */
+}
+
+/* For dark mode - make it brighter */
+.color-scheme-dark .contact-container > h3 {
+  color: #d0d0d0 !important;       /* Brighter gray in dark mode */
+}
+
+/* Optional: Also make the line (hr) more visible */
+.contact-container > hr {
+  opacity: 0.3 !important;          /* Make divider line more visible */
+}
