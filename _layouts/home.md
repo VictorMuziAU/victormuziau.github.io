@@ -19,7 +19,7 @@ layout: default
 
 <div class="multipurpose-container home-heading-container">
   {%- unless page.show_hero == false -%} 
-  # edit here!
+  <!-- First edit above to hide hero -->
   <div class="home-heading" {{ home_img_background_style }}>
     {{ home_img_tag }}
     <div class="home-heading-message">
@@ -37,7 +37,7 @@ layout: default
     </div>
   </div>
   {%- endunless -%}
-  # second edit here
+  <!-- second edit above to hide hero -->
   <div class="home-intro-text markdown-style">
     {{ content }}
   </div>
