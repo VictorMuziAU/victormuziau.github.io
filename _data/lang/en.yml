@@ -175,9 +175,7 @@ privacy-policy:
 constants:
   greetings: About
   welcome: Victor Muzi
-  sample: |
-  Psychological Researcher.
-  Data Analysis & Experimental Design.
+  sample: "Psychological Researcher.<br>Data Analysis & Experimental Design."
 # for contact form
 contact_form:
   button_name: Contact Form
