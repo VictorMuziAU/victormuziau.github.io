@@ -37,9 +37,25 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+## About Me
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+I'm a First Class Honours graduate in Psychological Science specializing in complex data analysis and cognitive research. Currently preparing my first-author publication on how executive function components interact with environmental complexity to influence children's safety decisions.
 
-{{ website_info_text_second }}
+**Current Role:** Research & Product Development Lead at Sophia Cortex, developing AI-assisted mental health support tools that integrate evidence-based psychological interventions with adaptive technology.
+
+## Core Expertise
+
+- **Statistical Analysis:** Mixed-effects models, SEM, factor analysis, bootstrapping
+- **Research Methods:** Eye-tracking, experimental design, psychometric assessment  
+- **Data Science:** Complex data integration, multi-source dataset management
+- **Software:** R, Python, MATLAB, SPSS, jamovi, Git
+
+## Featured Work
+
+**Executive Function & Road-Crossing Safety** - *First author publication in preparation*  
+Novel eye-tracking research revealing how cognitive flexibility and inhibition interact with environmental complexity to predict children's safety decisions.
+
+**AI Mental Health Support Development** - *Current project at Sophia Cortex*  
+Translating evidence-based therapeutic frameworks into adaptive AI interactions with real-time progress tracking.
+
+Currently seeking research positions where I can apply my quantitative skills and passion for understanding human cognition to meaningful research questions. Particularly interested in cognitive assessment, developmental psychology, and applied psychological research.
